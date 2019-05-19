@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+#container {
+    width: 1100px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+#head {
+    background-color: #a0a0a5;
+    padding: 15px;
+}
+
+#content {
+    margin-top: 15px;
+    padding: 10px;
+    overflow: hidden;
+    background-color: #9487a5
+}
+
+.leftBlock {
+    background-color: #d4ced8;
+    padding: 15px;
+    width: 70%;
+    float: left;
+}
+
+.rightBlock {
+    background-color: #7aa2a5;
+    padding: 15px;
+    width: 30%;
+    float: right;
+}
+
+#footer {
+    margin-top: 15px;
+    background-color: #a0a0a5;
+    padding: 15px;
+}
+
+input {
+    border-radius: 10px;
+    font: 20px "times new roman";
+    margin: 15px;
+    border: 2px solid red;
+}
+
+form {
+    text-align: center;
+}
+
+.regFormItem {
+    margin: 10px;
+    padding: 10px;
+    font: 20px "times new roman";
+    border: 2px dotted black;
+}
+
+.regFormItemButton {
+    margin: 0 auto;
+    width: 100px;
+    height: 50px;
+    font: 20px "comic sans ms";
+    color: #f8001f;
+    background-color: black;
+    border-radius: 15px;
+}
+
+.regFormItemButton:hover {
+    color: black;
+    background-color: red;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
